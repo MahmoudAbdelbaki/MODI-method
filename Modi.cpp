@@ -1,4 +1,11 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <limits>
+#include <iomanip>
+#include <cmath>
+#include <numeric>
+#include <algorithm>
+
 
 // Function to print a matrix
 void printMatrix(const std::vector<std::vector<long long>>& matrix, const std::string& name) {
